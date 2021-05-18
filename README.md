@@ -1,1 +1,1 @@
-This is an online version of th popular game Hangman.
+This is an online version of the popular game Hangman.
