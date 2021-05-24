@@ -8,10 +8,16 @@ const figureParts =document.querySelectorAll(
 	".figure-part"
 );
 const words= [
-	"deadpool",
-	"tubelight",
-	"brain",
-	"tweety",
+	"Bazinga",
+	"Transponster",
+	"How You Doin",
+	"Alons-y",
+	"Legendary",
+	"Live long and prosper",
+	"Suit Up",
+	"That's what she said",
+	"Noice",
+	"Smelly Cat",
 ];
 let selectedWord =
 words[Math.floor(Math.random()*words.length)];
