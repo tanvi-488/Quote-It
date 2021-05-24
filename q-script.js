@@ -8,10 +8,10 @@ const figureParts =document.querySelectorAll(
 	".figure-part"
 );
 const words= [
-	"Bazinga",
-	"Transponster",
-	"Legendary",
-	"Noice",
+	"bazinga",
+	"transponster",
+	"legendary",
+	"noice",
 ];
 let selectedWord =
 words[Math.floor(Math.random()*words.length)];
